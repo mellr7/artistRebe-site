@@ -1,0 +1,156 @@
+body {
+    font-family: 'Arial, sans-serif';
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 50px;
+}
+ h2{
+    font-family: 'Georgia, serif';
+    color: #8B0000;
+    padding-top: 50px;
+    text-align: center;
+   
+}
+
+h3{
+    font-family: 'Georgia, serif';
+    color: #8B0000;
+    text-align: center;
+}
+
+.inicio{
+
+    text-align: center;
+    padding-top: 15px;
+    padding: 20px;
+}
+.Descriptivo{
+   
+    text-align: center;
+    padding-top: 20px;
+    padding: 50px;
+}
+.imagen_principal{
+
+    width:  100%; 
+    height: 100%;
+}
+
+.img_secundarias{
+
+    width:  30%; 
+    height: 50%;
+    padding-left: 14px;
+    padding-right: 10px;
+    padding-top: 40px;
+    
+}
+
+.img_completa{
+    width:  97%; 
+    height: 96%;
+    padding-top: 9px;
+    padding-right: 10px;
+    padding-left: 12px;
+    
+}
+.img_comp{
+    width:  99%; 
+    height: 40%;
+    padding-top: 15px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.img_Album {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    flex-shrink: 0;
+}
+
+.img_EP{
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    flex-shrink: 0;
+
+}
+
+.img_Sencillo{
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    flex-shrink: 0;
+
+}
+
+.img_Ella{
+    width: 23%;
+    height: 23%;
+    border-radius: 10px;
+    padding-right: 5px;
+    padding-left: 3px;
+    flex-shrink: 0;
+
+}
+
+
+.contenedor-color1 {
+    background-color: #e4c8d2; /* Color de fondo del contenedor */
+    padding: 20px;
+    border-radius: 10px;
+    display: flex; /* Flex para alinear el texto y la imagen */
+    justify-content: space-between; /* Espaciado entre el texto y la imagen */
+    align-items: center; /* Alineación vertical centrada */
+}
+
+.contenedor-color2 {
+    
+    padding: 20px;
+    border-radius: 10px;
+    display: flex; /* Flex para alinear el texto y la imagen */
+    justify-content: space-between; /* Espaciado entre el texto y la imagen */
+    align-items: center; /* Alineación vertical centrada */
+}
+.texto-imagen-contenedor {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+
+p {
+    line-height: 1.6;
+}
+
+.color1 {
+    background-color: #e4c8d2;
+    color: #2C3E50;
+    padding: 120px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.color2 {
+   
+    color: #2C3E50;
+    padding: 120px;
+    border-radius: 5px;
+}
+
+.iconos {
+    display: inline-flex; /* Para que los íconos se mantengan en línea */
+    margin-left: 110px; /* Ajusta este valor para separar los íconos del texto */
+}
+
+.iconos svg {
+    margin-left: 25px; /* Espacio entre cada ícono */
+}
+
+
+
+

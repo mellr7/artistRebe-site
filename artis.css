@@ -4,18 +4,29 @@ body {
     color: #333;
     padding: 50px;
 }
+
+h1{
+    margin-top: 40px;
+    text-align: center;
+    color: #8B0000;
+
+}
  h2{
     font-family: 'Georgia, serif';
     color: #8B0000;
-    padding-top: 50px;
-    text-align: center;
+   
+    text-align: center; 
    
 }
 
 h3{
     font-family: 'Georgia, serif';
     color: #8B0000;
-    text-align: center;
+    
+}
+
+p{
+    font-size: 26px;
 }
 
 .inicio{
@@ -98,6 +109,20 @@ h3{
 
 }
 
+.img_Descriptiva{
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    flex-shrink: 0;
+    align-items: center;
+    display: flex; /* Flex para alinear el texto y la imagen */
+    justify-content: center; /* Centrar la imagen horizontalmente */
+    padding-left: 500px;
+    padding-right: 500px;
+   
+}
+
 
 .contenedor-color1 {
     background-color: #e4c8d2; /* Color de fondo del contenedor */
@@ -108,6 +133,7 @@ h3{
     align-items: center; /* Alineación vertical centrada */
 }
 
+
 .contenedor-color2 {
     
     padding: 20px;
@@ -116,6 +142,17 @@ h3{
     justify-content: space-between; /* Espaciado entre el texto y la imagen */
     align-items: center; /* Alineación vertical centrada */
 }
+
+.contenedor-color0 {
+    background-color: #e4c8d2; /* Color de fondo del contenedor */
+    padding: 30px;
+    padding-top: 8px;
+    border-radius: 10px;
+    display: flex; /* Flex para alinear el texto y la imagen */
+    justify-content: space-between; /* Espaciado entre el texto y la imagen */
+    align-items: center; /* Alineación vertical centrada */
+}
+
 .texto-imagen-contenedor {
     display: flex;
     gap: 20px;
@@ -127,6 +164,7 @@ p {
     line-height: 1.6;
 }
 
+/*COLOR Y ESTILOS TEXTO P*/
 .color1 {
     background-color: #e4c8d2;
     color: #2C3E50;
@@ -142,15 +180,50 @@ p {
     border-radius: 5px;
 }
 
+/*ICONOS*/
 .iconos {
     display: inline-flex; /* Para que los íconos se mantengan en línea */
     margin-left: 110px; /* Ajusta este valor para separar los íconos del texto */
+    align-items: center;
+    margin-top: 30px;
 }
 
 .iconos svg {
     margin-left: 25px; /* Espacio entre cada ícono */
 }
 
+
+
+/* DISEÑO DE TABLA */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: #e4c8d2;
+    color: rgb(0, 0, 0);
+}
+
+th, td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f4f4f4;
+}
+
+tbody tr:hover {
+    background-color: #ddd;
+}
 
 
 

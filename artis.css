@@ -25,6 +25,16 @@ h3{
     
 }
 
+h4{
+    font-family: 'Georgia, serif';
+    color: #8B0000;
+    text-align: center; 
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 60px;
+   
+}
+
 p{
     font-size: 26px;
 }
@@ -145,8 +155,10 @@ p{
 
 .contenedor-color0 {
     background-color: #e4c8d2; /* Color de fondo del contenedor */
+    height: 120px;
     padding: 30px;
     padding-top: 8px;
+    margin-top: 20px;
     border-radius: 10px;
     display: flex; /* Flex para alinear el texto y la imagen */
     justify-content: space-between; /* Espaciado entre el texto y la imagen */
@@ -159,6 +171,11 @@ p{
     align-items: center;
 }
 
+caption {
+  text-align: center;
+  margin-bottom: 20px; /* o usa px: 20px, por ejemplo */
+  font-weight: bold;
+}
 
 p {
     line-height: 1.6;
@@ -180,13 +197,15 @@ p {
     border-radius: 5px;
 }
 
+
 /*ICONOS*/
 .iconos {
     display: inline-flex; /* Para que los íconos se mantengan en línea */
-    margin-left: 110px; /* Ajusta este valor para separar los íconos del texto */
     align-items: center;
-    margin-top: 30px;
+    margin-top: 50px;
+    margin-left: 620px;
 }
+
 
 .iconos svg {
     margin-left: 25px; /* Espacio entre cada ícono */
@@ -205,11 +224,17 @@ table {
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.textopretabla{
+    text-align: center;
 }
 
 thead {
     background-color: #e4c8d2;
     color: rgb(0, 0, 0);
+    
 }
 
 th, td {

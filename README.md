@@ -3,10 +3,19 @@
 **Sitio web accesible de la artista mexicana: Rebe**  
 Proyecto estático desarrollado con HTML, CSS y Bootstrap, siguiendo las pautas de accesibilidad web (WCAG).
 
-# Objetivo
+ღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღ
+
+**Sitio en línea**
+
+Puedes visitar el sitio aquí:  
+🔗 [SitioWeb-Rebe](https://mellr7.github.io/SitioWeb-Rebe/)
+
+ღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღ
+
+**Objetivo**
 Crear una experiencia web cómoda y visualmente atractiva que refleje el estilo retro-naïf de Rebe.
 
-# Enfoque técnico
+****Enfoque técnico****
 - Uso de etiquetas semánticas para mejorar la estructura del contenido.
 - Contraste adecuado entre texto y fondo para facilitar la lectura.
 - Navegación completa mediante teclado.
@@ -21,8 +30,12 @@ Crear una experiencia web cómoda y visualmente atractiva que refleje el estilo 
 # Estado del proyecto
 Próxima etapa: Interactivo
 
+ღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღ
+
 # Créditos
 
 Desarrollado por [Melissa MLarios](https://github.com/mellr7)  
 Inspirado en la estética y música de Rebe.
+
+ღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღ
 

@@ -1,6 +1,7 @@
 # ⭒ SitioWeb-Rebe ⭒
 
 ***Sitio web accesible de la artista mexicana: Rebe***
+
 Proyecto estático desarrollado con HTML y CSS, 
 siguiendo las pautas de accesibilidad web (WCAG).
 

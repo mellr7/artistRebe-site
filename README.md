@@ -1,7 +1,8 @@
 # SitioWeb-Rebe
 
 ***Sitio web accesible de la artista mexicana: Rebe***
-Proyecto estático desarrollado con HTML, CSS y Bootstrap, siguiendo las pautas de accesibilidad web (WCAG).
+Proyecto estático desarrollado con HTML y CSS, 
+siguiendo las pautas de accesibilidad web (WCAG).
 
 ღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღღ
 

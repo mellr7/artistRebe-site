@@ -22,10 +22,10 @@ siguiendo las pautas de accesibilidad web (WCAG).
 
 ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡
 
-### ★ Credits
+### ★ Créditos
 
-Developed by [Melissa MLarios](https://github.com/mellr7)  
-Inspired by Rebe’s aesthetics and music.
+Desarrollado por Melissa MLarios
+Inspirado en la estética y música de Rebe.
 
 ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡
 

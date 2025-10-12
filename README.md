@@ -1,4 +1,4 @@
-# ⭒ SitioWeb-Rebe ⭒
+# ⭒ ArtistRebe-site ⭒
 
 ***Sitio web accesible de la artista mexicana: Rebe***
 
@@ -7,8 +7,10 @@ siguiendo las pautas de accesibilidad web (WCAG).
 
 ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
 
-[English version](README.en.md)  
-[Versión en español](README.es.md)
+
+✰[English version](README.en.md)  
+
+✰[Versión en español](README.es.md)
 
 
 ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡

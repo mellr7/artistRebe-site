@@ -1,4 +1,4 @@
-# ⭒ SitioWeb-Rebe ⭒
+# ⭒ artistRebe-site ⭒
 
 ***Sitio web accesible de la artista mexicana: Rebe***
 
@@ -12,7 +12,7 @@ siguiendo las pautas de accesibilidad web (WCAG).
 ### ۵ Sitio en línea
 
 **Puedes visitar el sitio aquí:**
-🔗 [SitioWeb-Rebe](https://mellr7.github.io/artistRebe-site/)
+🔗 [artisRebe-site](https://mellr7.github.io/artistRebe-site/)
 
 ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡
 
@@ -32,6 +32,11 @@ Crear una experiencia web cómoda y visualmente atractiva que refleje el estilo 
 - `/assets/` – Imágenes, estilos y recursos visuales.
 - `/README.md` – Documentación del proyecto.
 
+### ۵ Tecnologías
+- CSS3
+- HTML5
+- Pruebas de accesibilidad con Lighthouse y WAVE.
+  
 ### ۵ Estado del proyecto
 Próxima etapa: Interactivo
 

@@ -8,8 +8,8 @@ siguiendo las pautas de accesibilidad web (WCAG).
 ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
 
 
-✰ [English documentation](docs/README.en.md)  
-✰ [Documentación en español](docs/README.es.md)
+✰ [Documentation – English version](docs/README.en.md)  
+✰ [Documentación – Versión en español](docs/README.es.md)
 
 ________________________________________________________________
 

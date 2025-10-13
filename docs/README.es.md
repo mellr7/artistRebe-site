@@ -26,7 +26,7 @@ ____________________________________________________
 - Contraste adecuado entre texto y fondo para facilitar la lectura.
 - Navegación completa mediante teclado.
 - Pruebas con herramientas como Lighthouse y validadores de accesibilidad.
-- Diseño responsivo con Bootstrap y Figma.
+
 
 ### ۵ Estructura del proyecto
 - `/index.html` – Página principal con información sobre Rebe.

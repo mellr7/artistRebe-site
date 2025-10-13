@@ -48,7 +48,7 @@ Next stage: Interactive
 
 ### ★ Credits
 
-Developed by [Melissa MLarios](https://github.com/mellr7)
+Developed by [Melissa MLarios⭒](https://github.com/mellr7) ⭒
 
 Inspired by Rebe’s aesthetics and music.
 

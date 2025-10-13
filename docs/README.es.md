@@ -16,9 +16,10 @@ ________________________________________________________________
 
 ________________________________________________________________
 
-
 ### ۵ Objetivo
 Crear una experiencia web cómoda y visualmente atractiva que refleje el estilo retro-naïf de Rebe.
+
+____________________________________________________
 
 ### ۵ Enfoque técnico
 - Uso de etiquetas semánticas para mejorar la estructura del contenido.
@@ -31,6 +32,8 @@ Crear una experiencia web cómoda y visualmente atractiva que refleje el estilo 
 - `/index.html` – Página principal con información sobre Rebe.
 - `/assets/` – Imágenes, estilos y recursos visuales.
 - `/README.md` – Documentación del proyecto.
+
+____________________________________________________
 
 ### 🌐 Tecnologías
 - CSS3

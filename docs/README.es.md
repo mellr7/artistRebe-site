@@ -1,4 +1,4 @@
-# ★ artistRebe-site ★
+# ⭒ artistRebe-site ⭒
 
 ***Sitio web accesible de la artista mexicana: Rebe***
 

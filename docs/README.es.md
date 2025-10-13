@@ -43,7 +43,7 @@ Próxima etapa: Interactivo
 ________________________________________________________________
 ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡
 
-### ★ Créditos
+### ★ Autora
 
 Desarrollado por [Melissa MLarios](https://github.com/mellr7) ✰
 Inspirado en la estética y música de Rebe.

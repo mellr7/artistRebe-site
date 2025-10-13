@@ -33,6 +33,7 @@ ____________________________________________________
 - `/assets/` – Imágenes, estilos y recursos visuales.
 - `/README.md` – Documentación del proyecto.
 
+
 ____________________________________________________
 
 ### 🌐 Tecnologías

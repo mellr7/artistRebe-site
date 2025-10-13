@@ -29,7 +29,6 @@ ________________________________________________________________
 * Proper contrast between text and background for easier reading.
 * Full keyboard navigation.
 * Testing with tools such as Lighthouse and accessibility validators.
-* Responsive design using Bootstrap and Figma.
 
 ### ۵ Project Structure
 

@@ -5,7 +5,7 @@
 Proyecto estático desarrollado con HTML y CSS, 
 siguiendo las pautas de accesibilidad web (WCAG).
 
-❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗
 
 ✰ [Documentation – English version](docs/README.en.md)  
 ✰ [Documentación – Versión en español](docs/README.es.md)

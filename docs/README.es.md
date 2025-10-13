@@ -9,7 +9,7 @@ siguiendo las pautas de accesibilidad web (WCAG).
 
 ________________________________________________________________
 
-### ۵ Sitio en línea
+### ✰ Sitio en línea ✰
 
 **Puedes visitar el sitio aquí:**
 🔗 [artisRebe-site](https://mellr7.github.io/artistRebe-site/) ✰

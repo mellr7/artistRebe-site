@@ -12,7 +12,7 @@ siguiendo las pautas de accesibilidad web (WCAG).
 ### ۵ Sitio en línea
 
 **Puedes visitar el sitio aquí:**
-🔗 [artisRebe-site](https://mellr7.github.io/artistRebe-site/)
+🔗 [artisRebe-site](https://mellr7.github.io/artistRebe-site/) ✰
 
 ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡
 
@@ -44,7 +44,7 @@ Próxima etapa: Interactivo
 
 ### ★ Créditos
 
-Desarrollado por [Melissa MLarios](https://github.com/mellr7)  
+Desarrollado por [Melissa MLarios](https://github.com/mellr7) ✰
 Inspirado en la estética y música de Rebe.
 
 ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡

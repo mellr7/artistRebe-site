@@ -34,6 +34,12 @@ Create a comfortable and visually appealing web experience that reflects Rebe’
 * `/assets/` – Images, styles, and visual resources.
 * `/README.md` – Project documentation.
 
+### ۵ Technologies
+- HTML5  
+- CSS3  
+- Accessibility testing with Lighthouse and WAVE.
+
+
 ### ۵ Project Status
 
 Next stage: Interactive
@@ -43,6 +49,7 @@ Next stage: Interactive
 ### ★ Credits
 
 Developed by [Melissa MLarios](https://github.com/mellr7)
+
 Inspired by Rebe’s aesthetics and music.
 
 ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡

@@ -1,4 +1,4 @@
-# ⭒ artistRebe-site ⭒
+# ⭒★ artistRebe-site ★⭒
 
 ***Sitio web accesible de la artista mexicana: Rebe***
 
@@ -46,6 +46,7 @@ ________________________________________________________________
 ### ★ Autora
 
 Desarrollado por [Melissa MLarios](https://github.com/mellr7) ✰
+
 Inspirado en la estética y música de Rebe.
 
 ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡

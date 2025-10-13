@@ -32,12 +32,12 @@ Crear una experiencia web cómoda y visualmente atractiva que refleje el estilo 
 - `/assets/` – Imágenes, estilos y recursos visuales.
 - `/README.md` – Documentación del proyecto.
 
-### ۵ Tecnologías
+### 🌐 Tecnologías
 - CSS3
 - HTML5
 - Pruebas de accesibilidad con Lighthouse y WAVE.
   
-### ۵ Estado del proyecto
+### ⭒ Estado del proyecto ⭒
 Próxima etapa: Interactivo
 
 ________________________________________________________________

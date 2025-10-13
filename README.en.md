@@ -12,7 +12,7 @@ following web accessibility guidelines (WCAG).
 ### ۵ Online Site
 
 **You can visit the website here:**
-🔗 [RebeWebsite](https://mellr7.github.io/artistRebe-site/)
+🔗 [RebeWebsite](https://mellr7.github.io/artistRebe-site/) ✰
 
 ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡
 

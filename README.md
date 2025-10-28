@@ -5,11 +5,10 @@
 Proyecto estático desarrollado con HTML y CSS, 
 siguiendo las pautas de accesibilidad web (WCAG).
 
-❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗
 
-
-✰ [English documentation](docs/README.en.md)  
-✰ [Documentación en español](docs/README.es.md)
+✰ [Documentation – English version](docs/README.en.md)  
+✰ [Documentación – Versión en español](docs/README.es.md)
 
 ________________________________________________________________
 
@@ -22,8 +21,9 @@ ________________________________________________________________
 
 ### ★ Créditos
 
-Desarrollado por [Melissa MLarios](https://github.com/mellr7) ✰
-Inspirado en la estética y música de Rebe.
+Creado por [Melissa MLarios](https://github.com/mellr7) ✰
+
+*Inspirado en la estética y música de Rebe.*
 
 ________________________________________________________________
 

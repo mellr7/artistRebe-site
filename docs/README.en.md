@@ -5,21 +5,23 @@
 Static project developed with HTML and CSS,
 following web accessibility guidelines (WCAG).
 
-❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗
 
 ________________________________________________________________
 
-### ۵ Online Site
+### ✰ Online Site ✰
 
 **You can visit the website here:**
 🔗 [RebeWebsite](https://mellr7.github.io/artistRebe-site/) ✰
 
 ________________________________________________________________
 
-
 ### ۵ Goal
 
 Create a comfortable and visually appealing web experience that reflects Rebe’s retro-naïf style.
+
+________________________________________________________________
+
 
 ### ۵ Technical Approach
 
@@ -27,7 +29,6 @@ Create a comfortable and visually appealing web experience that reflects Rebe’
 * Proper contrast between text and background for easier reading.
 * Full keyboard navigation.
 * Testing with tools such as Lighthouse and accessibility validators.
-* Responsive design using Bootstrap and Figma.
 
 ### ۵ Project Structure
 
@@ -35,20 +36,22 @@ Create a comfortable and visually appealing web experience that reflects Rebe’
 * `/assets/` – Images, styles, and visual resources.
 * `/README.md` – Project documentation.
 
-### ۵ Technologies
+  ________________________________________________________________
+
+### 🌐 Technologies
 - HTML5  
 - CSS3  
 - Accessibility testing with Lighthouse and WAVE.
 
 
-### ۵ Project Status
+### ⭒ Project Status ⭒
 
 Next stage: Interactive
 ________________________________________________________________
 
 ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡
 
-### ★ Credits
+### ★ Author
 
 Developed by [Melissa MLarios](https://github.com/mellr7) ✰
 

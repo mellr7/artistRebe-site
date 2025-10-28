@@ -2,11 +2,15 @@ body {
     font-family: 'Arial, sans-serif';
     background-color: #f0f0f0;
     color: #333;
-    padding: 50px;
+    padding-left: 120px;
+    padding-right: 120px;
+    text-align: justify;
 }
 
+/*ENCABEZADOS Y TEXTO*/
+
 h1{
-    margin-top: 40px;
+    margin-top: 70px;
     text-align: center;
     color: #8B0000;
 
@@ -14,7 +18,6 @@ h1{
  h2{
     font-family: 'Georgia, serif';
     color: #8B0000;
-   
     text-align: center; 
    
 }
@@ -36,21 +39,35 @@ h4{
 }
 
 p{
-    font-size: 26px;
+    font-size: 24px;
+    line-height: 1.6;
+    /*font-family: monospace;*/
+    /*font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;*/
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .inicio{
 
     text-align: center;
-    padding-top: 15px;
-    padding: 20px;
+    text-align: justify;
+    padding-top: 25px;
+    padding-left: 130px;
+    padding-right: 130px;
+    margin-bottom: 70px;
 }
 .Descriptivo{
    
     text-align: center;
+    text-align: justify;
     padding-top: 20px;
     padding: 50px;
+    padding-left: 130px;
+    padding-right: 130px;
+    
 }
+
+/*IMÁGENES*/
+
 .imagen_principal{
 
     width:  100%; 
@@ -68,10 +85,10 @@ p{
 }
 
 .img_completa{
-    width:  97%; 
+    width:  98.5%; 
     height: 96%;
     padding-top: 9px;
-    padding-right: 10px;
+    padding-right: 0px;
     padding-left: 12px;
     
 }
@@ -81,6 +98,11 @@ p{
     padding-top: 15px;
     padding-right: 10px;
     padding-left: 10px;
+}
+
+.prox_Concierto{
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
 
 .img_Album {
@@ -126,21 +148,33 @@ p{
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     flex-shrink: 0;
     align-items: center;
-    display: flex; /* Flex para alinear el texto y la imagen */
-    justify-content: center; /* Centrar la imagen horizontalmente */
+    display: flex; 
+    justify-content: center; 
     padding-left: 500px;
     padding-right: 500px;
    
 }
 
+/*CONTENEDORES ESTILOS*/
+
+.contenedor-color0 {
+    background-color: #e4c8d2; 
+    padding: 30px;
+    padding-top: 8px;
+    margin-top: 20px;
+    border-radius: 10px;
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+}
 
 .contenedor-color1 {
-    background-color: #e4c8d2; /* Color de fondo del contenedor */
+    background-color: #e4c8d2; 
     padding: 20px;
     border-radius: 10px;
-    display: flex; /* Flex para alinear el texto y la imagen */
-    justify-content: space-between; /* Espaciado entre el texto y la imagen */
-    align-items: center; /* Alineación vertical centrada */
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
 }
 
 
@@ -148,22 +182,12 @@ p{
     
     padding: 20px;
     border-radius: 10px;
-    display: flex; /* Flex para alinear el texto y la imagen */
-    justify-content: space-between; /* Espaciado entre el texto y la imagen */
-    align-items: center; /* Alineación vertical centrada */
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
 }
 
-.contenedor-color0 {
-    background-color: #e4c8d2; /* Color de fondo del contenedor */
-    height: 120px;
-    padding: 30px;
-    padding-top: 8px;
-    margin-top: 20px;
-    border-radius: 10px;
-    display: flex; /* Flex para alinear el texto y la imagen */
-    justify-content: space-between; /* Espaciado entre el texto y la imagen */
-    align-items: center; /* Alineación vertical centrada */
-}
+
 
 .texto-imagen-contenedor {
     display: flex;
@@ -171,17 +195,10 @@ p{
     align-items: center;
 }
 
-caption {
-  text-align: center;
-  margin-bottom: 20px; /* o usa px: 20px, por ejemplo */
-  font-weight: bold;
-}
 
-p {
-    line-height: 1.6;
-}
 
-/*COLOR Y ESTILOS TEXTO P*/
+/*COLOR Y ESTILOS*/
+
 .color1 {
     background-color: #e4c8d2;
     color: #2C3E50;
@@ -200,7 +217,7 @@ p {
 
 /*ICONOS*/
 .iconos {
-    display: inline-flex; /* Para que los íconos se mantengan en línea */
+    display: inline-flex; 
     align-items: center;
     margin-top: 50px;
     margin-left: 620px;
@@ -208,12 +225,23 @@ p {
 
 
 .iconos svg {
-    margin-left: 25px; /* Espacio entre cada ícono */
+    margin-left: 25px; 
 }
 
 
 
-/* DISEÑO DE TABLA */
+/* DISEÑO TABLA */
+
+.table-top{
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+caption {
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
 
 table {
     width: 100%;
